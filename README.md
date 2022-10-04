@@ -1,4 +1,4 @@
-# lecture-docker
+# lecture-dockers
 
 ## Docker simple command
   - `docker container ps` menampilkan semua container yang sedang berjalan.
