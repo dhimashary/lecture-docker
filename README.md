@@ -11,4 +11,5 @@
   - create image
   `docker build -t express-demo .`
   - run the image inside container
-  `docker run -p 3001:3000 -v $(pwd):/var/www/demo-express-docker express-demo`
+  `docker run -p 3001:3000 -v $(pwd):/var/www/demo-express-docker express-demo` 
+  `pake %cd% kalo windows`
